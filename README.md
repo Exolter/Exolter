@@ -12,6 +12,8 @@ Header
  <img width="600" src="assets/github-snake.svg" alt="snake"/>
 </p>
 
+- 📫 How to offer me? 📫 >>> [![Telegram Badge](https://img.shields.io/badge/-Artur_Harkusha-blue?style=flat&logo=Telegram&logoColor=white)](https://t.me/exolt_zarj) [![Gmail Badge](https://img.shields.io/badge/-Gmail-red?style=flat&logo=Gmail&logoColor=white)](mailto:garkusha.company@gmail.com)
+
 ---
 
 ### 💬 Languages:
@@ -45,7 +47,6 @@ Canva
 
 linkedin
 instagram
-telegram
 
 ---
 
@@ -54,6 +55,5 @@ telegram
 👯
 🤔
 
-📫
 😄
 ⚡
