@@ -16,7 +16,7 @@
 
 - Ukrainian
 - Russian
-- Enslish
+- English
 
 ---
 
